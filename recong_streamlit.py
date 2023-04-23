@@ -1,7 +1,6 @@
 import streamlit as st
 import cv2
 import numpy as np
-import os 
 import pandas as pd
 
 # Load the pre-trained model
