@@ -1,4 +1,4 @@
-opencv-python-headless==4.1.2.30
+opencv-python-headless == 4.1.2.30
 streamlit
 pandas
 numpy
